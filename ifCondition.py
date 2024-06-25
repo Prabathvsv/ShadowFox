@@ -1,4 +1,4 @@
-# task 1
+                                                                              # task 1
 # Explanation: Calculates BMI (Body Mass Index) based on user input of height and weight, and provides an interpretation of the result.
 height = float(input("Please enter your height in meters: "))
 weight = float(input("Please enter your weight in kilograms: "))
@@ -21,7 +21,7 @@ answer, calculated_bmi = BMI(height, weight)
 print("Your BMI answer is:", answer)
 print("Your calculated BMI value is:", calculated_bmi)
 
-# task 2
+                                                                          # task 2
 # Explanation: Determines the country of a given city based on predefined lists of cities for Australia, UAE, and India.
 Australia = ["Sydney", "Melbourne", "Brisbane", "Perth"]
 UAE = ["Dubai", "Abu Dhabi", "Sharjah", "Ajman"]
@@ -44,7 +44,7 @@ def Country(city_name):
 # calling the function
 print(Country(city_name))
 
-# task 3
+                                                                    # task 3
 # Explanation: Checks if two given cities belong to the same country based on predefined lists of cities for Australia, UAE, and India.
 Australia = ["Sydney", "Melbourne", "Brisbane", "Perth"]
 UAE = ["Dubai", "Abu Dhabi", "Sharjah", "Ajman"]
